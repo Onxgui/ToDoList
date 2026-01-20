@@ -9,7 +9,7 @@ Funcionalidades:
 - Remover tarefas
 - Persistência com LocalStorage
 
-Tecnologias que utilizei
+Tecnologias que utilizei:
 
 - HTML
 - CSS
