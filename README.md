@@ -11,7 +11,7 @@ Aplicação simples de lista de tarefas desenvolvida com HTML, CSS e JavaScript.
 - Remover tarefas
 - Persistência com LocalStorage
 
-# Tecnologias que utilizadas:
+# Tecnologias utilizadas:
 
 - HTML
 - CSS
