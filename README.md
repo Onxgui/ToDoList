@@ -1,44 +1,66 @@
-PT-BR
+# PT-BR
 
-ToDo List
+# ToDo List
 
 Aplicação simples de lista de tarefas desenvolvida com HTML, CSS e JavaScript.
 
-Funcionalidades:
+# Funcionalidades:
 
 - Adicionar tarefas
 - Marcar como concluídas
 - Remover tarefas
 - Persistência com LocalStorage
 
-Tecnologias que utilizei:
+# Tecnologias que utilizadas:
 
 - HTML
 - CSS
 - JavaScript
 
+# Objetivo:
+
 Objetivo foi praticar manipulação do DOM, eventos em JavaScript e uso de armazenamento local.
 
-https://onxgui.github.io/ToDoList/
+# Próximas melhorias e implementações:
 
-En
+- Adicionar prioridade nas tarefas
+
+- Criar categorias (ex: estudo, trabalho, saúde)
+
+- Adicionar filtros e busca
+
+- Criar uma área de rotinas diárias/semanais
+
+- Criar uma agenda de eventos com data e horário
+
+# En
 
 Simple task list application developed with HTML, CSS, and JavaScript.
 
-Features:
+# Features:
 
 - Add tasks
 - Mark tasks as completed
 - Remove tasks
 - Persistence using LocalStorage
 
-Technologies used:
+# Technologies used:
 
 - HTML
 - CSS
 - JavaScript
 
-Objective:
+# Objective:
 The goal was to practice DOM manipulation, JavaScript events, and the use of local storage.
 
-https://onxgui.github.io/ToDoList/
+# Next improvements:
+
+- Add task priority
+
+- Create categories (ex: study, work, health)
+
+- Add filters and search
+
+- Create daily/weekly routines
+
+- Create an event schedule with date and time
